@@ -1,6 +1,10 @@
 const portafolio = () => {
     return (
-        <div> prueba para ver portafolio</div>
+        <div> 
+            <h1>
+            prueba para ver portafolio
+            </h1>
+            </div>
     )
 }
 
